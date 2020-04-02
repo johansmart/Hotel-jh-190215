@@ -1,0 +1,5 @@
+root
+cm9vdA==
+localhost
+3307
+hotel
